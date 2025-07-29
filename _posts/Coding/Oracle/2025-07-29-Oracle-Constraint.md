@@ -85,7 +85,7 @@ CREATE TABLE 테이블명 (
 
 - 다른 테이블의 열을 참조하여 존재하는 값만 입력
 
-<img src="../../../assets/img/Coding/Oracle/Untitled 13.png" align="center">
+<img src="/assets/img/Coding/Oracle/Untitled 13.png" align="center">
 
 - 부모(참조 대상 테이블) / 자식(참조하는 테이블) : 부모 먼저 들어와야 자식을 넣을 수 있음
 - ON DELETE CASCADE : 부모가 삭제되면 자식도 같이 삭제
