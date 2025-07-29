@@ -85,19 +85,19 @@ CREATE TABLE 테이블명 (
 
 - 다른 테이블의 열을 참조하여 존재하는 값만 입력
 
-<img src="/assets/img/Coding/Oracle/Untitled 13.png" align="center">
+<img src="/assets/img/Coding/Oracle/Untitled 13.png" align="center" alt="제약 조건1">
 
 - 부모(참조 대상 테이블) / 자식(참조하는 테이블) : 부모 먼저 들어와야 자식을 넣을 수 있음
 - ON DELETE CASCADE : 부모가 삭제되면 자식도 같이 삭제
 
-<img src="/assets/img/Coding/Oracle/Untitled 14.png" align="center">
+<img src="/assets/img/Coding/Oracle/Untitled 14.png" align="center" alt="제약 조건2">
 ![Untitled](Untitled%2014.png)
 
 - ON DELETE SET NULL : 부모가 삭제되면 자식이 참조하는 부모의 값을 NULL로 변경
 
 <p align="center">
-<img src="/assets/img/Coding/Oracle/Untitled 15.png" align="center" width=45%>
-<img src="/assets/img/Coding/Oracle/Untitled 16.png" align="center" width=45%>
+<img src="/assets/img/Coding/Oracle/Untitled 15.png" align="center" width=45% alt="제약 조건3">
+<img src="/assets/img/Coding/Oracle/Untitled 16.png" align="center" width=45% alt="제약 조건4">
 </p>
 
 ### 5. CHECK
