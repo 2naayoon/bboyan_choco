@@ -1,12 +1,10 @@
 ---
 title: "[Oracle] 서브쿼리"
-date: 2025-07-29 12:00:00 +09:00
+date: 2025-07-29 11:30:00 +09:00
 categories: [Coding, Oracle]
 tags:
   - Oracle
 ---
-
-# 서브쿼리
 
 ### 1. 서브쿼리
 
@@ -19,7 +17,7 @@ tags:
 SELECT *
 FROM 테이블명
 WHERE 조건 >, <, >=, <=, <>, != (
-					SELECT 컬럼명 FROM 테이블명 WHERE 조건);
+    SELECT 컬럼명 FROM 테이블명 WHERE 조건);
 ```
 
 ### 2. 단일행 서브쿼리

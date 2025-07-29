@@ -6,8 +6,6 @@ tags:
   - Oracle
 ---
 
-# 데이터 조회
-
 ### **1. SELECT**
 
 ```sql
