@@ -15,7 +15,7 @@ tags:
 - DBeaver 설정에서 commit 모드 변경 가능
 - 기본 설정 : Auto commit 상태
 
-<img src="../../../assets/img/Coding/Oracle/Untitled 1.png"/>
+<img src="/assets/img/Coding/Oracle/Untitled 1.png"/>
 
 ```sql
 INSERT INTO ~ ;
@@ -59,14 +59,14 @@ DBeaver / SQLplus - 동시 작업 X
 **5단계 : 구현**
 
 1) ERD 작성
-<p align="center">  <img src="../../../assets/img/Coding/Oracle/Untitled 2.png" align="center" width="38%">  <img src="../../../assets/img/Coding/Oracle/Untitled 3.png" align="center" width="29%">  <img src="../../../assets/img/Coding/Oracle/Untitled 4.png" align="center" width="29%">  </p>
+<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 2.png" align="center" width="38%">  <img src="/assets/img/Coding/Oracle/Untitled 3.png" align="center" width="29%">  <img src="/assets/img/Coding/Oracle/Untitled 4.png" align="center" width="29%">  </p>
 
-<p align="center">  <img src="../../../assets/img/Coding/Oracle/Untitled 5.png" align="center" width="40%">  <img src="../../../assets/img/Coding/Oracle/Untitled 6.png" align="center" width="40%">  </p>
+<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 5.png" align="center" width="40%">  <img src="/assets/img/Coding/Oracle/Untitled 6.png" align="center" width="40%">  </p>
 
 2) 릴레이션 작성
 
-<p align="center">  <img src="../../../assets/img/Coding/Oracle/Untitled 7.png" align="center" width="45%">  <img src="../../../assets/img/Coding/Oracle/Untitled 8.png" align="center" width="45%">  </p>
+<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 7.png" align="center" width="45%">  <img src="/assets/img/Coding/Oracle/Untitled 8.png" align="center" width="45%">  </p>
 
 3) 테이블 작성
 
-<p align="center">  <img src="../../../assets/img/Coding/Oracle/Untitled 9.png" align="center" width="55%">  <img src="../../../assets/img/Coding/Oracle/Untitled 10.png" align="center" width="40%">  </p>
+<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 9.png" align="center" width="55%">  <img src="/assets/img/Coding/Oracle/Untitled 10.png" align="center" width="40%">  </p>

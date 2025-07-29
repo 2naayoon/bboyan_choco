@@ -38,4 +38,4 @@ DELETE FROM 테이블명 WHERE 조건;
 
 ### 5. 서브쿼리 + DML
 
-<img src="../../../assets/img/Coding/Oracle/Untitled.png"/>
+<img src="/assets/img/Coding/Oracle/Untitled.png"/>
