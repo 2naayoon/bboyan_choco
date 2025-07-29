@@ -91,7 +91,6 @@ CREATE TABLE 테이블명 (
 - ON DELETE CASCADE : 부모가 삭제되면 자식도 같이 삭제
 
 <img src="/assets/img/Coding/Oracle/Untitled 14.png" align="center" alt="제약 조건2">
-![Untitled](Untitled%2014.png)
 
 - ON DELETE SET NULL : 부모가 삭제되면 자식이 참조하는 부모의 값을 NULL로 변경
 
