@@ -6,7 +6,8 @@ tags:
   - Oracle
 ---
 
-- SQL - 
+- SQL
+
 ```
 1. DDL  -  CREATE, ALTER, RENAME, TRUNCATE, DROP
 
@@ -139,8 +140,8 @@ TRUNCATE TABLE 테이블명;
 ```sql
 CREATE USER 아이디 IDENTIFIED BY 비밀번호;
 ```
-<img src="/assets/img/Coding/Oracle/Untitled 11.png" align="center" alt="DDL1">
-<img src="/assets/img/Coding/Oracle/Untitled 12.png" align="center" alt="DDL2">
+<img src="/assets/img/Coding/Oracle/Untitled 11.png" align="center" alt="DDL1" width=150%>
+<img src="/assets/img/Coding/Oracle/Untitled 12.png" align="center" alt="DDL2" width=90%>
 
 ### 2. 권한 부여 GRANT
 
