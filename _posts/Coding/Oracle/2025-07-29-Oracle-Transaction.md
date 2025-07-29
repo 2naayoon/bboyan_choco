@@ -59,7 +59,7 @@ DBeaver / SQLplus - 동시 작업 X
 **5단계 : 구현**
 
 1) ERD 작성
-<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 2.png" align="center" width="38%" alt="Transaction2">  <img src="/assets/img/Coding/Oracle/Untitled 3.png" align="center" width="29%" alt="Transaction3">  <img src="/assets/img/Coding/Oracle/Untitled 4.png" align="center" width="29%">  </p>
+<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 2.png" align="center" width="38%" alt="Transaction2">  <img src="/assets/img/Coding/Oracle/Untitled 3.png" align="center" width="29%" alt="Transaction3">  <img src="/assets/img/Coding/Oracle/Untitled 4.png" align="center" width="29%" alt="Transaction3">  </p>
 
 <p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 5.png" align="center" width="40%" alt="Transaction4">  <img src="/assets/img/Coding/Oracle/Untitled 6.png" align="center" width="40%" alt="Transaction6">  </p>
 
