@@ -60,14 +60,14 @@ DBeaver / SQLplus - 동시 작업 X
 
 1) ERD 작성
 
-{% raw %}
-
-<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 2.png" style="display:inline-block; align="center" width="36%" alt="Transaction2">  <img src="/assets/img/Coding/Oracle/Untitled 3.png" align="center" width="29%" alt="Transaction3">  <img src="/assets/img/Coding/Oracle/Untitled 4.png" align="center" width="29%" alt="Transaction3">  </p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/img/Coding/Oracle/Untitled 2.png" style="width:38%;" alt="Transaction2">
+  <img src="/assets/img/Coding/Oracle/Untitled 3.png" style="width:29%;" alt="Transaction3">
+  <img src="/assets/img/Coding/Oracle/Untitled 4.png" style="width:29%;" alt="Transaction4">
+</div>
 
 <p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 5.png" align="center" width="40%" alt="Transaction4">  <img src="/assets/img/Coding/Oracle/Untitled 6.png" align="center" width="40%" alt="Transaction6">  </p>
 
-
-{% endraw %}
 
 2) 릴레이션 작성
 

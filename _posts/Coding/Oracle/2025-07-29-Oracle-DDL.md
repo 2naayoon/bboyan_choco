@@ -142,7 +142,7 @@ CREATE USER 아이디 IDENTIFIED BY 비밀번호;
 ```
 <img src="/assets/img/Coding/Oracle/Untitled 11.png" align="center" alt="DDL1">
 
-<img src="/assets/img/Coding/Oracle/Untitled 12.png" align="center" alt="DDL2" width=80%>
+<img src="/assets/img/Coding/Oracle/Untitled 12.png" align="center" alt="DDL2">
 
 ### 2. 권한 부여 GRANT
 
