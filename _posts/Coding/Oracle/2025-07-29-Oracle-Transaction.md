@@ -61,21 +61,21 @@ DBeaver / SQLplus - 동시 작업 X
 1) ERD 작성
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/assets/img/Coding/Oracle/Untitled 2.png" style="width:38%;" alt="Transaction2">
-  <img src="/assets/img/Coding/Oracle/Untitled 3.png" style="width:29%;" alt="Transaction3">
-  <img src="/assets/img/Coding/Oracle/Untitled 4.png" style="width:29%;" alt="Transaction4">
+  <img src="/assets/img/Coding/Oracle/Untitled 2.png" alt="Transaction2">
+  <img src="/assets/img/Coding/Oracle/Untitled 3.png" alt="Transaction3">
+  <img src="/assets/img/Coding/Oracle/Untitled 4.png" alt="Transaction4">
 </div>
 
 2) 릴레이션 작성
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/assets/img/Coding/Oracle/Untitled 7.png" align="center" width="45%" alt="Transaction7">
-  <img src="/assets/img/Coding/Oracle/Untitled 8.png" align="center" width="45%" alt="Transaction8">
+  <img src="/assets/img/Coding/Oracle/Untitled 7.png" align="center" alt="Transaction7">
+  <img src="/assets/img/Coding/Oracle/Untitled 8.png" align="center" alt="Transaction8">
 </div>
 
 3) 테이블 작성
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/assets/img/Coding/Oracle/Untitled 9.png" align="center" width="55%" alt="Transaction9">
-  <img src="/assets/img/Coding/Oracle/Untitled 10.png" align="center" width="40%" alt="Transaction10">
+  <img src="/assets/img/Coding/Oracle/Untitled 9.png" align="center" alt="Transaction9">
+  <img src="/assets/img/Coding/Oracle/Untitled 10.png" align="center" alt="Transaction10">
 </div>

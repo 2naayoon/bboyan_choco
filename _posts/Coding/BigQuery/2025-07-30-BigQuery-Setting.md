@@ -1,5 +1,5 @@
 ---
-title: "[BigQuery] 트랜젝션, 데이터베이스 설계"
+title: "[BigQuery] 환경 설정"
 date: 2025-07-30 08:00:00 +09:00
 categories: [Coding, BigQuery]
 tags:
@@ -24,22 +24,22 @@ tags:
 
 - 새 프로젝트 생성
 <div style="display: flex; justify-content: center; gap: 10px;">
-	<img src="/assets/img/Coding/BigQuery/환경설정/image 1.png" align="center" width="50%" alt="Setting2">
-  <img src="/assets/img/Coding/BigQuery/환경설정/image 2.png" align="center" width="41%" alt="Setting3">
+	<img src="/assets/img/Coding/BigQuery/환경설정/image 1.png" align="center" alt="Setting2">
+  <img src="/assets/img/Coding/BigQuery/환경설정/image 2.png" align="center" alt="Setting3">
 </div>
 
 - 데이터 세트, 테이블 생성
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-	<img src="/assets/img/Coding/BigQuery/환경설정/image 3.png" align="center" width="45%" alt="Setting3">
-  <img src="/assets/img/Coding/BigQuery/환경설정/image 4.png" align="center" width="45%" alt="Setting4">
+	<img src="/assets/img/Coding/BigQuery/환경설정/image 3.png" align="center" alt="Setting3">
+  <img src="/assets/img/Coding/BigQuery/환경설정/image 4.png" align="center" alt="Setting4">
 </div>
 
 - 스키마 확인
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-	<img src="/assets/img/Coding/BigQuery/환경설정/image 5.png" align="center" width="40%" alt="Setting5">
-  <img src="/assets/img/Coding/BigQuery/환경설정/image 6.png" align="center" width="55%" alt="Setting6">
+	<img src="/assets/img/Coding/BigQuery/환경설정/image 5.png" align="center" alt="Setting5">
+  <img src="/assets/img/Coding/BigQuery/환경설정/image 6.png" align="center" alt="Setting6">
 </div>
 
 - 탐색하는 데이터 확인
