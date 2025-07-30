@@ -3,7 +3,7 @@ title: "[BigQuery] 환경 설정"
 date: 2025-07-30 08:00:00 +09:00
 categories: [Coding, BigQuery]
 tags:
-  - Oracle
+  - BigQuery
 ---
 
 ### BigQuery
@@ -20,7 +20,7 @@ tags:
 - $300 무료 크레딧 (90일)
 - 결제 계정 등록
 
-<img src="/assets/img/Coding/BigQuery/환경설정/image.png" align="center" alt="Setting1"></br>
+<img src="/assets/img/Coding/BigQuery/환경설정/image.png" align="center" alt="Setting1">
 
 - 새 프로젝트 생성
 <div style="display: flex; justify-content: center; gap: 10px;">
