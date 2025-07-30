@@ -66,13 +66,16 @@ DBeaver / SQLplus - 동시 작업 X
   <img src="/assets/img/Coding/Oracle/Untitled 4.png" style="width:29%;" alt="Transaction4">
 </div>
 
-<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 5.png" align="center" width="40%" alt="Transaction4">  <img src="/assets/img/Coding/Oracle/Untitled 6.png" align="center" width="40%" alt="Transaction6">  </p>
-
-
 2) 릴레이션 작성
 
-<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 7.png" align="center" width="45%" alt="Transaction7">  <img src="/assets/img/Coding/Oracle/Untitled 8.png" align="center" width="45%" alt="Transaction8">  </p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/img/Coding/Oracle/Untitled 7.png" align="center" width="45%" alt="Transaction7">
+  <img src="/assets/img/Coding/Oracle/Untitled 8.png" align="center" width="45%" alt="Transaction8">
+</div>
 
 3) 테이블 작성
 
-<p align="center">  <img src="/assets/img/Coding/Oracle/Untitled 9.png" align="center" width="55%" alt="Transaction9">  <img src="/assets/img/Coding/Oracle/Untitled 10.png" align="center" width="40%" alt="Transaction10">  </p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/img/Coding/Oracle/Untitled 9.png" align="center" width="55%" alt="Transaction9">
+  <img src="/assets/img/Coding/Oracle/Untitled 10.png" align="center" width="40%" alt="Transaction10">
+</div>

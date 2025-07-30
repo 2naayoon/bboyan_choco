@@ -94,8 +94,11 @@ CREATE TABLE 테이블명 (
 
 - ON DELETE SET NULL : 부모가 삭제되면 자식이 참조하는 부모의 값을 NULL로 변경
 
-<img src="/assets/img/Coding/Oracle/Untitled 15.png"  align="center" width="55%" alt="제약 조건3">
-<img src="/assets/img/Coding/Oracle/Untitled 16.png"  align="center" width="40%" alt="제약 조건4">
+<div style="display: flex; justify-content: center; gap: 10px;">
+	<img src="/assets/img/Coding/Oracle/Untitled 15.png"  align="center" width="55%" alt="제약 조건3">
+	<img src="/assets/img/Coding/Oracle/Untitled 16.png"  align="center" width="40%" alt="제약 조건4">
+</div>
+
 
 ### 5. CHECK
 
