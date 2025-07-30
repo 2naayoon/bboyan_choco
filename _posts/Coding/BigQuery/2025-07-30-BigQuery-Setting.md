@@ -23,15 +23,24 @@ tags:
 <img src="/assets/img/Coding/BigQuery/환경설정/image.png" align="center" alt="Setting1"></br>
 
 - 새 프로젝트 생성
-<p align="center">  <img src="/assets/img/Coding/BigQuery/환경설정/image 1.png" align="center" width="50%" alt="Setting2">  <img src="/assets/img/Coding/BigQuery/환경설정/image 2.png" align="center" width="41%" alt="Setting3">  </p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+	<img src="/assets/img/Coding/BigQuery/환경설정/image 1.png" align="center" width="50%" alt="Setting2">
+  <img src="/assets/img/Coding/BigQuery/환경설정/image 2.png" align="center" width="41%" alt="Setting3">
+</div>
 
 - 데이터 세트, 테이블 생성
 
-<p align="center">  <img src="/assets/img/Coding/BigQuery/환경설정/image 3.png" align="center" width="45%" alt="Setting3">  <img src="/assets/img/Coding/BigQuery/환경설정/image 4.png" align="center" width="45%" alt="Setting4">  </p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+	<img src="/assets/img/Coding/BigQuery/환경설정/image 3.png" align="center" width="45%" alt="Setting3">
+  <img src="/assets/img/Coding/BigQuery/환경설정/image 4.png" align="center" width="45%" alt="Setting4">
+</div>
 
 - 스키마 확인
 
-<p align="center">  <img src="/assets/img/Coding/BigQuery/환경설정/image 5.png" align="center" width="40%" alt="Setting5">  <img src="/assets/img/Coding/BigQuery/환경설정/image 6.png" align="center" width="55%" alt="Setting6">  </p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+	<img src="/assets/img/Coding/BigQuery/환경설정/image 5.png" align="center" width="40%" alt="Setting5">
+  <img src="/assets/img/Coding/BigQuery/환경설정/image 6.png" align="center" width="55%" alt="Setting6">
+</div>
 
 - 탐색하는 데이터 확인
     - 용량이 많을수록 비용↑
