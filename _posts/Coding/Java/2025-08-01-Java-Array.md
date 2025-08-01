@@ -152,10 +152,8 @@ for (int[] arr : score3) {
 
 - 선택정렬
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/assets/img/Coding/Java/배열/Selection-Sort-Animation.gif" alt="Array2" style="width: 40%; flex-shrink: 0; height: auto;">
-  <img src="https://velog.velcdn.com/images/dodokyumin/post/152ddcfb-60bf-476d-b7ba-9fe9cecdb71f/image.png" alt="Array3" style="width: 60%; flex-shrink: 0; height: auto;">
-</div>
+<img src="/assets/img/Coding/Java/배열/Selection-Sort-Animation.gif" alt="Array2">
+<img src="https://velog.velcdn.com/images/dodokyumin/post/152ddcfb-60bf-476d-b7ba-9fe9cecdb71f/image.png" alt="Array3">
 <figcaption align="center" style="color:silver">이미지 출처 : https://ko.wikipedia.org/wiki/선택_정렬</figcaption>
 
 
