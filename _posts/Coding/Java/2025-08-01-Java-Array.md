@@ -114,9 +114,11 @@ for (int i : score) {
 
 : 2열로 생성
 
+{% raw %}
 ```java
-타입 변수명[행][열] = &#123;&#123;값1, 값2&#125;&#125;, &#123;&#123;값3, 값4&#125;&#125;;
+타입 변수명[행][열] = {{값1, 값2}, {값3, 값4}};
 ```
+{% endraw %}
 
 - 2차원 배열 확인
 
@@ -152,7 +154,7 @@ for (int[] arr : score3) {
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 	<img src="/assets/img/Coding/Java/배열/Selection-Sort-Animation.gif" align="center" alt="Array2">
-  <img src="https://velog.velcdn.com/images/dodokyumin/post/152ddcfb-60bf-476d-b7ba-9fe9cecdb71f/image.png" align="center" alt="Array3">
+  <img src="https://velog.velcdn.com/images/dodokyumin/post/152ddcfb-60bf-476d-b7ba-9fe9cecdb71f/image.png" align="center" alt="Array3" width=70%>
 </div>
 <figcaption align="center" style="color:silver">이미지 출처 : https://ko.wikipedia.org/wiki/선택_정렬</figcaption>
 
