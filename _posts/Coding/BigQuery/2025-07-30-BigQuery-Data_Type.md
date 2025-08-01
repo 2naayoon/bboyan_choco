@@ -31,7 +31,7 @@ SELECT
 
 ### 3. 수학 함수
 
-- https://cloud.google.com/bigquery/docs/reference/standard-sql/mathematical_functions
+- [https://cloud.google.com/bigquery/docs/reference/standard-sql/mathematical_functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/mathematical_functions)
 
 ### 4. 문자열 함수
 
@@ -124,7 +124,7 @@ SELECT
 	FORMAT_DATETIME("%c", DATETIME "2024-01-11 12:35:35") AS formatted;
 ```
 
-📍https://cloud.google.com/bigquery/docs/reference/standard-sql/format-elements#format_elements_date_time
+📍[https://cloud.google.com/bigquery/docs/reference/standard-sql/format-elements#format_elements_date_time](https://cloud.google.com/bigquery/docs/reference/standard-sql/format-elements#format_elements_date_time)
 
 - LAST_DAY : 월의 마지막 값 반환, 자동으로 월의 마지막 값을 계산해서 특정 연산을 할 경우
 
