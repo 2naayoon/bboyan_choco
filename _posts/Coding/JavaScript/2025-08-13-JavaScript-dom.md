@@ -26,7 +26,7 @@ window.open("./child.html", "", "width=420, height=550");
 <input type="checkbox" name="popup" id="" />오늘은 이 창 보지 않기
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image.png" align="center" alt="dom1">
+<img src="/assets/img/Coding/JavaScript/Dom/image.png" align="center" alt="dom1">
 
 ### 2. location
 
