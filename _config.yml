@@ -48,8 +48,8 @@ social:
     - https://www.linkedin.com/in/2naayoon-ab4576368
 
 # Site Verification Settings
-webmaster_verifications:
-  google: # fill in your Google verification code
+webmaster_verifications: 
+  google: OvbGQvU2HRftDPix9tnF-j6WvQ6YT50rESO8zv_RfB4 # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
