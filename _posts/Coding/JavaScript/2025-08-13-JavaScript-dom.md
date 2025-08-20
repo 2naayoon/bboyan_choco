@@ -66,7 +66,7 @@ location.replace("https://www.naver.com");
 
   값, 스타일, 요소 제거, 요소 변경, 요소 추가, …
 
-<img src="/assets/img/Coding/JavaScript/dom/image1.png" align="center" alt="dom2">
+<img src="/assets/img/Coding/JavaScript/Dom/image1.png" align="center" alt="dom2">
 <figcaption align="center" style="color:silver">이미지 출처 : By ‍Birger Eriksson - 자작, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18034500</figcaption>
 
 
@@ -96,7 +96,7 @@ location.replace("https://www.naver.com");
 </body>
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image2.png" align="center" alt="dom3">
+<img src="/assets/img/Coding/JavaScript/Dom/image2.png" align="center" alt="dom3">
 
 - querySelector() : css 선택자 모두 가능
     - `#` : id명
@@ -158,7 +158,7 @@ const element2 = document.querySelector("#header2");
 </body>
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image3.png" align="center" alt="dom4">
+<img src="/assets/img/Coding/JavaScript/Dom/image3.png" align="center" alt="dom4">
 
 - 요소의 자식 찾기
 
@@ -203,7 +203,7 @@ const element2 = document.querySelector("#header2");
 </body>
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image4.png" align="center" alt="dom5">
+<img src="/assets/img/Coding/JavaScript/Dom/image4.png" align="center" alt="dom5">
 
 - value : 폼 태그 텍스트 노드 값 가져오기
 
@@ -225,7 +225,7 @@ const element2 = document.querySelector("#header2");
 </body>
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image5.png" align="center" alt="dom6">
+<img src="/assets/img/Coding/JavaScript/Dom/image5.png" align="center" alt="dom6">
 
 ```
 💡 일반 태그 : h1, div, span, ... → innerHTML, innerText, textContent
@@ -248,7 +248,7 @@ header.appendChild(content);
 document.body.appendChild(header); // 뒤에 추가
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image6.png" align="center" alt="dom7">
+<img src="/assets/img/Coding/JavaScript/Dom/image6.png" align="center" alt="dom7">
 
 - body.innerHTML
 
@@ -262,7 +262,7 @@ output += "</ul>";
 document.body.innerHTML = output;
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image7.png" align="center" alt="dom8">
+<img src="/assets/img/Coding/JavaScript/Dom/image7.png" align="center" alt="dom8">
 
 - insertAdjancentHTML(위치, 삽입할 요소)
     - beforeend : 현재 태그 요소의 마지막 자식으로 삽입
@@ -282,7 +282,7 @@ document.body.innerHTML = output;
 </body>
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/0f734d95-1200-4520-948a-dd210d30024a.png" align="center" alt="dom9">
+<img src="/assets/img/Coding/JavaScript/Dom/0f734d95-1200-4520-948a-dd210d30024a.png" align="center" alt="dom9">
 
 ### 4. remove
 
@@ -308,7 +308,7 @@ document.body.innerHTML = output;
 </body>
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image8.png" align="center" alt="dom9">
+<img src="/assets/img/Coding/JavaScript/Dom/image8.png" align="center" alt="dom9">
 
 ### 5. modify
 
@@ -333,7 +333,7 @@ document.body.innerHTML = output;
 </body>
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image9.png" align="center" alt="dom10">
+<img src="/assets/img/Coding/JavaScript/Dom/image9.png" align="center" alt="dom10">
 
 - 스타일 변경
 
@@ -351,7 +351,7 @@ document.body.innerHTML = output;
 </body>
 ```
 
-<img src="/assets/img/Coding/JavaScript/dom/image10.png" align="center" alt="dom11">
+<img src="/assets/img/Coding/JavaScript/Dom/image10.png" align="center" alt="dom11">
 
 - classList : 클래스명 모두 가져오기
     - replace(변경할 클래스명, 새 클래스명) : 클래스 이름 변경
