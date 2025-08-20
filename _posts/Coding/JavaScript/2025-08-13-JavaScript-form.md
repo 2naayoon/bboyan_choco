@@ -32,7 +32,7 @@ tags:
 </body>
 ```
 
-![image.png](form%209a7e5ca72d914a1380a6debedbbb5165/image.png)
+<img src="/assets/img/Coding/JavaScript/form/image.png" align="center" alt="form1">
 
 ### 2. form을 이용한 계산기 만들기
 
@@ -79,7 +79,7 @@ tags:
 </body>
 ```
 
-![image.png](form%209a7e5ca72d914a1380a6debedbbb5165/image%201.png)
+<img src="/assets/img/Coding/JavaScript/form/image 1.png" align="center" alt="form2">
 
 ### 3. 유효성 검증
 
@@ -137,7 +137,7 @@ tags:
 </body>
 ```
 
-![image.png](form%209a7e5ca72d914a1380a6debedbbb5165/image%202.png)
+<img src="/assets/img/Coding/JavaScript/form/image 2.png" align="center" alt="form3">
 
 ### 4. 숫자 맞추기 게임
 
@@ -191,4 +191,4 @@ tags:
 </body>
 ```
 
-![image.png](form%209a7e5ca72d914a1380a6debedbbb5165/image%203.png)
+<img src="/assets/img/Coding/JavaScript/form/image 3.png" align="center" alt="form4">
