@@ -31,7 +31,7 @@ tags:
 
 본인은 면접을 잘 못 봤지만,, 취업에 대한 의지를 봐주신 것 같다,,ㅎㅎ
 
-📍 [AI 특화캠퍼스](aisesac.seoul.kr)
+📍 [AI 특화캠퍼스](https://aisesac.seoul.kr/junggu)
 
 <img src="https://blogfiles.pstatic.net/MjAyNTA1MDdfMTgw/MDAxNzQ2NTg1OTI5NDYw.0HMNuu4F5q1apvTlMISC6C5O04uGsMorAhyQClg1pjUg._hG8c4Nzv-5ENCpOYhEU7mHA1wlh3XEg4pfTY-BEaAkg.PNG/image.png?type=w1" align="center" alt="safe3">
 </br>

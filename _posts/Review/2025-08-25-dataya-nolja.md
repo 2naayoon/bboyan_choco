@@ -6,9 +6,6 @@ tags:
   - 데이터야놀자
 ---
 
-📍 [데이터안심구역](https://dsz.kdata.or.kr/svc/kpolicy/main.do)
-
-
 <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMjkz/MDAxNzU2MTA1NDIyNzMz.KWBvZqCI5y5wj8uiUbvWsqnEVNUlv4WHlfmgiOYxyfMg.yJZaFmOkWIY02lgKGanBvKMynTqX39Zl1Oj2EH-lNt0g.PNG/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2025-08-25_140819.png?type=w1" align="center" alt="safe2">
 <figcaption align="center" style="color:silver">출처 : 데이터야 놀자</figcaption>
 
