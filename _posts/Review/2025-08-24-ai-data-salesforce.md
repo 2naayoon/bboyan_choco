@@ -13,10 +13,10 @@ tags:
 시원섭섭한 기분을 딛고,,, 이젠 취뽀만 남았다,,
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-	<img src="https://blogfiles.pstatic.net/MjAyNTA1MDdfMzgg/MDAxNzQ2NTg1ODg0NDY5.QPWknQ8qDnkJbqce3DwGUQQliuorx3TlYrJj2rV-KJ4g.R-ve7BclXBliMJJlNX2-iXorGRlbacN901i-MJ34kBUg.PNG/image.png?type=w1" align="center" alt="safe3">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA1MDdfODcg/MDAxNzQ2NTg1OTA0NzIy._TOsIxj4vIgTrxEsb5ganoSEG-z26wcsH8orIAhHQsgg.r_86HCcF8F_u2XLGYj10TrMC9s2zPUAu932SzCXAtfAg.PNG/image.png?type=w1" align="center" alt="safe4">
+	<img src="/assets/img/Review/sessac/1.png" align="center" alt="se1">
+  <img src="/assets/img/Review/sessac/2.png" align="center" alt="se2">
 </div>
-<figcaption align="center" style="color:silver">출처 : 청년취업사관학교</figcaption></br>
+<figcaption align="center" style="color:silver">출처 : 청년취업사관학교</figcaption>
 
 
 처음에는 데이터에 대한 막연한 관심으로 시작했는데, 3~4개월이라는 짧은 과정 동안 너무 많은 걸 배우고, 받을 수 있었다😭
@@ -33,11 +33,9 @@ tags:
 
 📍 [AI 특화캠퍼스](https://aisesac.seoul.kr/junggu)
 
-<img src="https://blogfiles.pstatic.net/MjAyNTA1MDdfMTgw/MDAxNzQ2NTg1OTI5NDYw.0HMNuu4F5q1apvTlMISC6C5O04uGsMorAhyQClg1pjUg._hG8c4Nzv-5ENCpOYhEU7mHA1wlh3XEg4pfTY-BEaAkg.PNG/image.png?type=w1" align="center" alt="safe3">
-</br>
+<img src="/assets/img/Review/sessac/3.png" align="center" alt="se3">
 
-<img src="https://blogfiles.pstatic.net/MjAyNTA1MDdfMTMy/MDAxNzQ2NTg1OTQzOTkx.RN2pIYCoLLgpHfOn2iAMjJqQXcqx4RPd1g8jMTcINnUg.W8CAowLi5gm_Qi5Ul4Vdt1jD5uC68FgRZgU06AnyjQsg.PNG/image.png?type=w1" align="center" alt="safe4">
-</br>
+<img src="/assets/img/Review/sessac/4.png" align="center" alt="se4">
 
 일단 청년취업사관학교가 다른 국비 과정이나, 교육 프로그램보다 지원 혜택이 많은데, AI 특화 캠퍼스는 상공회의소와 기업 자체 지원 혜택이 매우 많다
 
@@ -47,7 +45,7 @@ tags:
 
 그리고 취업에 직접적으로 도움이 될 수 있는 자소서 첨삭이나, 모의 면접, 프로그래머스 코딩 테스트 바우처 등 정말 매~~~~~~~~~~~~우 많은 취업 지원이 있어서 공부와 취업 준비에만 전념할 수 있도록 해준다
 
-<img src="https://blogfiles.pstatic.net/MjAyNTA1MDdfNCAg/MDAxNzQ2NTg1OTg4Njg2.qfjYRiS5Di9G21BQitbPJ_U0HiS9JN0fK8_r65pX3eYg.JzLvKsRMMksSOgRNBOS00RKC29ZCP1DE3CRMcke5_eog.PNG/image.png?type=w1" align="center" alt="safe4">
+<img src="/assets/img/Review/sessac/5.png" align="center" alt="se5">
 
 교육 과정은 [SQL - Python - Tableau - 프로젝트 1, 2차] 로 진행되고, 선행학습을 위한 자료도 제공된다
 
@@ -60,25 +58,24 @@ Python은 기초 코딩 + pandas, numpy 전처리 정도는 한 번씩 따라 �
 그리고 일정이 빡빡하니, 자소서도 미리 어느 정도 써두면 더 좋은...;;
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMTY5/MDAxNzU2MDk0NTk2MzAx.hp0fCwH0u_Fs2pigZSiGciPvP8C85vWfgt36_vnnflkg.YfK3SY2WgIbycwgIm93WHK-IDagitMKPAQIy4GuVDgIg.PNG/image.png?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfNTQg/MDAxNzU2MDk0NDgyMzY0.IGnL5F_VambTXUkGQ2tyVZo7zZ23N3rZwEo1QJfN6lAg.2Ei6Xtp6GUcO-1bKHduGIHAxaVE-GN1tAy0BJVgP690g.PNG/image.png?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMTA4/MDAxNzU2MDk0NDE3ODk1.maBb8LPG7kYKMcY06BcMtBlicsmrFTsfNFvS5Ca1SuAg.eVkNBs4Gxz2oMQQvDBWRYpyJBgWj3l3OKGrtxlOAXf4g.PNG/image.png?type=w1" align="center" alt="safe4">
+  <img src="/assets/img/Review/sessac/6.png" align="center" alt="se6">
+  <img src="/assets/img/Review/sessac/7.png" align="center" alt="se7">
 </div>
-<figcaption align="center" style="color:silver">출처 : Inflearn, Fast Campus</figcaption></br>
+<figcaption align="center" style="color:silver">출처 : Inflearn, Fast Campus</figcaption>
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMTA4/MDAxNzU2MDk0NDE3ODk1.maBb8LPG7kYKMcY06BcMtBlicsmrFTsfNFvS5Ca1SuAg.eVkNBs4Gxz2oMQQvDBWRYpyJBgWj3l3OKGrtxlOAXf4g.PNG/image.png?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMTEg/MDAxNzU2MDk0Njk3Nzkz.GhAjWGZB6EPTULCewJ-wwafNrkHrcX1KppEKihoTEL4g.EbtLRQLqD3ahvqfpHyYsWkOT36hlNNADqFL6rp2dxb4g.PNG/image.png?type=w1" align="center" alt="safe4">
+  <img src="/assets/img/Review/sessac/8.png" align="center" alt="se8">
+  <img src="/assets/img/Review/sessac/9.png" align="center" alt="se9">
 </div>
-<figcaption align="center" style="color:silver">출처 : BigxData</figcaption></br>
+<figcaption align="center" style="color:silver">출처 : BigxData</figcaption>
 
 교육을 진행해 주시는 강사님들도 다들 실무 경력이나 능력이 대단하신 분들이라 배울 점들이 매우 많다😖
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfMjQz/MDAxNzUwMjQzMDYxNTM0.thYrZp4YdXEF1w3ExPmCb9oTsr6cro3Fs05hS4OD6sYg.hgbdfoSW0IcyJlJmo8vcEpCHizDb_C1xLfNkKWVNRjkg.JPEG/900%EF%BC%BF1750243049287.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfMTQ1/MDAxNzUwMjQzMDU5OTky.l7kjRS5d7uOFrBgyPambbaBWa-TZLMIY6mMn-UV_k9sg.73zptZEVFCOPCv7YA6QAJxDEgSUEQYTUK4Dd-Y9T160g.JPEG/900%EF%BC%BF1750243048860.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfMTA5/MDAxNzUwMjQzMDYzMDY4._dsFACNbAkI0Fe3qmE0IJjNp8PGb363v9ozT7gegqwMg.Dg9vruuzaFC-XU_S3mK3vRGAuDyxo2t9BPLXoSfCrm0g.JPEG/900%EF%BC%BF1750243049831.jpg?type=w1" align="center" alt="safe4">
+  <img src="/assets/img/Review/sessac/10.jpg" align="center" alt="se10">
+  <img src="/assets/img/Review/sessac/11.jpg" align="center" alt="se11">
+  <img src="/assets/img/Review/sessac/12.jpg" align="center" alt="se12">
 </div>
 
 면접까지 보고 결과가 나오면 예치금 100,000원 입금! 그리고 상공회의소에서 이렇게 합동 오리엔테이션을 진행한다
@@ -87,8 +84,8 @@ Python은 기초 코딩 + pandas, numpy 전처리 정도는 한 번씩 따라 �
 
 2기 때는 기간이 달라서 합동으로 진행하는지는 모르겠지만,, 빠방한 간식과 커피, 주스,,👍
 
-<img src="https://simg.pstatic.net/static.map/v2/map/staticmap.bin?caller=smarteditor&markers=color%3A0x11cc73%7Csize%3Amid%7Cpos%3A126.9963332%2037.56815%7CviewSizeRatio%3A0.7%7Ctype%3Ad&w=700&h=315&scale=2&dataversion=174.95" align="center" alt="safe4">
-<figcaption align="center" style="color:silver">출처 : Naver Map</figcaption></br>
+<img src="/assets/img/Review/sessac/13.png" align="center" alt="se13">
+<figcaption align="center" style="color:silver">출처 : Naver Map</figcaption>
 
 청년취업사관학교 중구 캠퍼스는 을지로4가역 3번 출고와 세운상가 사이에 있는 상생지식산업센터 B동 6층에 있다
 
@@ -98,18 +95,18 @@ Python은 기초 코딩 + pandas, numpy 전처리 정도는 한 번씩 따라 �
 
 그치만 근처 야장이 많아서 분위기는..🤍🤍
 
-<img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMTcw/MDAxNzU2MDg3Njc0NjQw.ytEJczggrYkQOXqkOGwriFRZ5T3mT1vWBqGhRlqi15kg.eBEssjo1_ub6ftO_xtO_U0MwC75OedVyieSXsEV6dJUg.JPEG/900%EF%BC%BF1756087673751.jpg?type=w1" align="center" alt="safe4">
+<img src="/assets/img/Review/sessac/14.jpg" align="center" alt="se14">
 
 을지로4가역 3번출구..!!
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfMTQ2/MDAxNzUwMjQzMTM3ODE0.4CCayQf6DOaPTsAT7rtVJBGgTRu4df-Ldn7Ir1AKCqgg.epW75o_O3zMYKco6eeBQouh0knTI3StkE7GPv-6PFv8g.JPEG/900%EF%BC%BF1750243050738.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfMzkg/MDAxNzUwMjQzMTM4NzY1.2b_u24PEZRKe0qzIOBfuvFQBA1Y_VIMBkTE2A1aWykQg.MkyoZGc2xl3a24p0UzkJpLxPnnt8kQIVvjlojFbdlf0g.JPEG/900%EF%BC%BF1750243050444.jpg?type=w1" align="center" alt="safe4">
+  <img src="/assets/img/Review/sessac/15.jpg" align="center" alt="se15">
+  <img src="/assets/img/Review/sessac/16.jpg" align="center" alt="se16">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfMTcg/MDAxNzUwMjQzMTM5NjQy.PBadmNbuCPA5tC71LQ7x8u-SorcI5nKrPziJlXF4cAAg.xwEGwwz6tWFsWiGZM9TYZGrL5w2a-TvttGTax3Ku0Scg.JPEG/900%EF%BC%BF1750243050087.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfMjQ2/MDAxNzUwMjQzMTQwNTI3.W9q_ydezVSKr0XkAW0yes-jjcZ7hPdhqYSbl8YeLRQ8g.oKybhWjI36nOqY-Lyv608ZIg8mBNHCV6dAZ2phjqs_sg.JPEG/900%EF%BC%BF1750243051023.jpg?type=w1" align="center" alt="safe4">
+  <img src="/assets/img/Review/sessac/17.jpg" align="center" alt="se17">
+  <img src="/assets/img/Review/sessac/18.jpg" align="center" alt="se18">
 </div>
 
 여기가 청년취업사관학교 중구 캠퍼스다
@@ -119,9 +116,9 @@ Python은 기초 코딩 + pandas, numpy 전처리 정도는 한 번씩 따라 �
 운영진분들께서 항상 부족한 건 없는지 여쭤봐주시고 챙겨주셔서, 시설이나 환경 면에서는 부족한 점 없이 너무 완벽하다
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfNTYg/MDAxNzUwMjQzMDU4Nzcz.EE0qvUFC_gUnRC9Olw_QTcVc6LljCgBgdwZGOH9k3Cwg.amZZ6DFyk5rduiKdK_1nBIp8YiBjA_gSeDtQfQPw8pQg.JPEG/900%EF%BC%BF1750243051332.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfMTI1/MDAxNzUwMjQzMDU5Mjgx.-9jDwgK84IISu0-SMSHQeM08qPjoTwWqAxp-cwrUXw0g.Yxa1OggMNXmXqf9iLY73GQEGMM4tsVAEOuWWc714My0g.JPEG/900%EF%BC%BF1750243051609.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA2MThfMTY2/MDAxNzUwMjQzMDYxNDQ5.dhHahprmqPjXDUGo7tZ9bRBUhOf_iVwcHoEBztqDFjMg.-Cocl3vloupXv9ZB1NXHFXAJnM6dLtvdYNxCa-g0Dfgg.JPEG/900%EF%BC%BF1750243051866.jpg?type=w1" align="center" alt="safe4">
+  <img src="/assets/img/Review/sessac/19.jpg" align="center" alt="se19">
+  <img src="/assets/img/Review/sessac/20.jpg" align="center" alt="se20">
+  <img src="/assets/img/Review/sessac/21.jpg" align="center" alt="se21">
 </div>
 
 처음 입학 때 받은 입학 선물들,,ㅠㅠ
@@ -129,17 +126,17 @@ Python은 기초 코딩 + pandas, numpy 전처리 정도는 한 번씩 따라 �
 정말 받은 게 너무 많아서 더 열심히 하게 된다
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMjc2/MDAxNzU2MDg3Nzc4NTQ4.XbO4p-YgFGBe7tgGQ6MwUJ62Lkh9jy9C-4AhZBP-z3og.7yl_hMFAsN2_x99uEt1zxWgonUJl_NgvC_-ozMkCIPAg.JPEG/900%EF%BC%BF1756087772454.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMTMx/MDAxNzU2MDg3Nzk1NjA5.go-MVZZJGZl0MVWsmLwDBiQwefB1Z5eBeP6fGQJtkHwg.udnn-etoqmWdOIr-vmKYIvoSbyBKdTETZ03vaCHmKjIg.JPEG/900%EF%BC%BF1756087794923.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMTAy/MDAxNzU2MDg3ODA4MzYx.S74ncs_Nwq-KTRU2CCioXeiRnF-7mR_gAaJM5KkOTNog.BAgEEOY6Y5bid_-y2C6tx338BEuOZTadOoia_frOkyAg.JPEG/900%EF%BC%BF1756087807756.jpg?type=w1" align="center" alt="safe4">
+  <img src="/assets/img/Review/sessac/22.jpg" align="center" alt="se22">
+  <img src="/assets/img/Review/sessac/23.jpg" align="center" alt="se23">
+  <img src="/assets/img/Review/sessac/24.jpg" align="center" alt="se24">
 </div>
 
 점심은 도시락 배달로 이루어졌는데, 중간에 업체가 한 번 바뀌었는데 넘 맛있고, 좋음🤍🤍🤍
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMTE2/MDAxNzU2MDg3Nzc4NTIz.RNGvz967YFkOXRBfvNl0crSNSW6T7YH_zkf-JSs7P8Qg.gGf2aP4h8GWqJ3K6QX1Y66-9Y2hkZmr5Vrz-PpTPprgg.JPEG/900%EF%BC%BF1756087772811.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMTg4/MDAxNzU2MDg3Nzc5MTQy.L2KAnr4vHLlykRwz4jccZRRtklPDBkHjPcuJuSTFgf4g.m0sPl1BZDEobEPfEY1KL24KFOET53NaGzMCtPudu7qsg.JPEG/900%EF%BC%BF1756087773516.jpg?type=w1" align="center" alt="safe4">
-  <img src="https://blogfiles.pstatic.net/MjAyNTA4MjVfMjMz/MDAxNzU2MDg3Nzc4NTMz.CFH5UHUpTSA744An0XPgQ7OYuRNs5L9mQn7J0L7No_0g.RMzY1cAkkDmoIOuWyys73z2KiiC8YdwaG6pWmTGJCHsg.JPEG/900%EF%BC%BF1756087773188.jpg?type=w1" align="center" alt="safe4">
+  <img src="/assets/img/Review/sessac/25.jpg" align="center" alt="se25">
+  <img src="/assets/img/Review/sessac/26.jpg" align="center" alt="se26">
+  <img src="/assets/img/Review/sessac/27.jpg" align="center" alt="se27">
 </div>
 
 3.5개월? 동안 정말 쉼 없이 달린 것 같은데, 시간이 정말 빠른 것 같다
@@ -156,6 +153,6 @@ Tableau 같은 경우는 여기서 처음 접했는데, 생각보다 훨씬 재�
 
 이제 정말 수료한 게 아깝지 않도록 취업만 잘 하면 된다..화이팅..!
 
-<img src="https://blogfiles.pstatic.net/MjAyNTA2MThfNTIg/MDAxNzUwMjQzMDU2MTcx.JlDwRNHFB-xp_Lav1ivxaqET27RptMbqXGXynvcS5Zkg.pq2Vmnwu2Vq3vZ7bhZZWzA8sQdWSSic6ZxRBh1mcAhog.JPEG/900%EF%BC%BF1750243052580.jpg?type=w1" align="center" alt="safe4">
+<img src="/assets/img/Review/sessac/28.jpg" align="center" alt="se28">
 
 을지로의 낭만으로 마무리,,
