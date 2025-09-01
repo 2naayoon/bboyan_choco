@@ -1,6 +1,6 @@
 ---
 title: "[BigQuery] 자료 타입"
-date: 2025-07-30 10--18:00:00 +09:00
+date: 2025-07-30 18:00:00 +09:00
 categories: [Coding, BigQuery]
 tags:
   - BigQuery
